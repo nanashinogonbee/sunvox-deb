@@ -4,3 +4,9 @@ SunVox is a small, fast and powerful modular synthesizer with pattern-based sequ
 1.9.3b | [i386](https://github.com/nanashinogonbee/sunvox-deb/raw/master/1.9.3b/sunvox_1.9.3b_i386.deb) | [amd64](https://github.com/nanashinogonbee/sunvox-deb/raw/master/1.9.3b/sunvox_1.9.3b_amd64.deb)
 
 1.9.2 | [i386](https://github.com/nanashinogonbee/sunvox-deb/raw/master/1.9.2/sunvox_1.9.2_i386.deb) | [amd64](https://github.com/nanashinogonbee/sunvox-deb/raw/master/1.9.2/sunvox_1.9.2_amd64.deb)
+
+
+1.9.1 | [i386](https://github.com/nanashinogonbee/sunvox-deb/raw/master/1.9.1/sunvox_1.9.1_i386.deb) | [amd64](https://github.com/nanashinogonbee/sunvox-deb/raw/master/1.9.1/sunvox_1.9.1_amd64.deb)
+
+
+1.9b | [i386](https://github.com/nanashinogonbee/sunvox-deb/raw/master/1.9b/sunvox_1.9b_i386.deb) | [amd64](https://github.com/nanashinogonbee/sunvox-deb/raw/master/1.9b/sunvox_1.9b_amd64.deb)
